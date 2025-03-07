@@ -1,0 +1,3 @@
+Integrated generative AI to predict stock prices, & market sentiment and real-time economic indicators.
+
+Tools: OpenAI API, LangChain, LlamaIndex, Prophet, Darts, Hugging Face, PyTorch Lightning, Pandas, Plotly, yFinance
